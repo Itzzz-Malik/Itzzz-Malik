@@ -1,12 +1,11 @@
 ### Hello there :wave:
 I'm Itzzz-Malik, a coder who specializes in Node.js and front-end development.
 
----
  
 # Why you should choose me?
  
 |          Skill         | ItzzzMalik | Person 1 | Person 2 | Person 3 |
-|:----------------------:|:---------:|:--------:|:--------:|:--------:|-----|
+|:----------------------:|:---------:|:--------:|:--------:|:--------:|
 |    Avid Coffee Drinker |     ❌     |     ❌    |     ❌    |     ❌    |
 | Can Work Well Remotely |     ❌     |     ❌    |     ❌    |     ❌    |
 |             Full Stack |     ❌     |     ❌    |     ❌    |     ❌    |
